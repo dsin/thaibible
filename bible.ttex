@@ -2,28 +2,30 @@
 \usepackage[thai]{babel}
 \usepackage{thswitch} 
 \usepackage{url}
+\usepackage[utf8]{inputenc}
 
 \topmargin 0cm
 
 \newcommand{\parenthesis}[1]{\{#1\}}
 
-\title{ æ√–§—¡¿’√Ï¿“…“‰∑¬©∫—∫ KJV \\ 
-(Thai Bible King James Version)  }
 
 \begin{document}
 \usefont{LTH}{xxxx}{m}{n}
 
 \frontmatter
+\title{ ‡∏û‡∏£‡∏∞‡∏Ñ‡∏±‡∏°‡∏†‡∏µ‡∏£‡πå‡∏†‡∏≤‡∏©‡∏≤‡πÑ‡∏ó‡∏¢‡∏â‡∏ö‡∏±‡∏ö KJV \\ 
+(Thai Bible King James Version)  }
+
 \maketitle
 
 %==
 \onecolumn
-   \chapter*{§”π”}
-   ‡ÀÁπ«Ë“ ‰¡Ë¡’ ebook ∑’Ë√«¡‡ªÁπ‡≈Ë¡æ√ÈÕ¡æ‘¡æÏ ®÷ßπ”µÈπ©∫—∫¡“®“° \url{http://thaipope.org/webbible/index.htm} ®—¥‡√’¬∫‡√’¬ß‡ªÁπ√Ÿª‡≈Ë¡
-·≈–‡°Á∫‰«È∑’Ë \url{http://code.google.com/p/thaibible/}
+   \chapter*{‡∏Ñ‡∏≥‡∏ô‡∏≥}
+   ‡πÄ‡∏´‡πá‡∏ô‡∏ß‡πà‡∏≤ ‡πÑ‡∏°‡πà‡∏°‡∏µ ebook ‡∏ó‡∏µ‡πà‡∏£‡∏ß‡∏°‡πÄ‡∏õ‡πá‡∏ô‡πÄ‡∏•‡πà‡∏°‡∏û‡∏£‡πâ‡∏≠‡∏°‡∏û‡∏¥‡∏°‡∏û‡πå ‡∏à‡∏∂‡∏á‡∏ô‡∏≥‡∏ï‡πâ‡∏ô‡∏â‡∏ö‡∏±‡∏ö‡∏°‡∏≤‡∏à‡∏≤‡∏Å \url{http://thaipope.org/webbible/index.htm} ‡∏à‡∏±‡∏î‡πÄ‡∏£‡∏µ‡∏¢‡∏ö‡πÄ‡∏£‡∏µ‡∏¢‡∏á‡πÄ‡∏õ‡πá‡∏ô‡∏£‡∏π‡∏õ‡πÄ‡∏•‡πà‡∏°
+‡πÅ‡∏•‡∏∞‡πÄ‡∏Å‡πá‡∏ö‡πÑ‡∏ß‡πâ‡∏ó‡∏µ‡πà \url{http://code.google.com/p/thaibible/}
 
    \begin{flushright}
-   æß»∏√ ‡Õ°°¡≈°ÿ≈ \\
+   ‡∏û‡∏á‡∏®‡∏ò‡∏£ ‡πÄ‡∏≠‡∏Å‡∏Å‡∏°‡∏•‡∏Å‡∏∏‡∏• \\
    ( \url{http://dsin.blogspot.com} )
    \end{flushright}
 
