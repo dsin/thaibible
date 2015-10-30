@@ -1,0 +1,26 @@
+directories = "ch01"
+for directory in $directories;
+do
+    cd $directory
+    for ttex in *.ttex 
+    do
+        tex=`echo $ttex | sed 's/ttex/tex/'`
+        swath -f latex -u u,u <$ttex> $tex
+    done
+    cd ..
+done
+
+for ttex in *.ttex 
+do
+  tex=`echo $ttex | sed 's/ttex/tex/'`
+  swath -f latex -u u,u <$ttex> $tex
+done
+pdflatex bible.tex
+
+for directory in $directories
+do
+    rm -fr *.tex *.aux *.log *.toc
+    cd ..
+done
+rm -fr *.tex *.aux *.log *.toc
+
