@@ -1,4 +1,0 @@
-for i in `seq 2 66` 
-do 
-    echo "\include{ch$i}" 
-done

@@ -1,7 +1,0 @@
-for ttex in *.ttex 
-do
-  tex=`echo $ttex | sed 's/ttex/tex/'`
-  echo $tex
-  echo $ttex
-done
-

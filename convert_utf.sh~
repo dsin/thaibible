@@ -1,6 +1,0 @@
-for i in `find . -name '*.ttex'`
-do
-iconv -f tis-620 -t utf-8 $i > $i.utf
-mv $i $i.tis
-mv $i.utf $i
-done
