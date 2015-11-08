@@ -1,3 +1,5 @@
+#!/bin/sh
+
 run_swath(){
     for ttex in *.ttex 
     do
