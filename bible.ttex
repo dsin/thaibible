@@ -3,6 +3,7 @@
 \usepackage{thswitch} 
 \usepackage{url}
 \usepackage[utf8x]{inputenc}
+\usepackage[bookmarks]{hyperref}
 
 \topmargin 0cm
 
